@@ -1,0 +1,1 @@
+This is my very first project using Vibe Coding. I explored Python’s turtle graphics library and created a colorful spiral pattern. It was a fun way to learn coding basics and see instant visual results!
