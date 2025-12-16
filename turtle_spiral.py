@@ -9,8 +9,8 @@ pen.speed(0)
 colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 
 for i in range(100):
-pen.color(random.choice(colors))
-pen.circle(i * 2)
-pen.left(20)
+  pen.color(random.choice(colors))
+  pen.circle(i * 2)
+  pen.left(20)
 
 turtle.done() 
